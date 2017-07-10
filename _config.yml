@@ -23,7 +23,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 copyright: Copyright © 2017 BC Wines. All rights reserved.
-credits: Site based on Jekyll, Bootstrap, Landing Page theme.
+credits: Site based on Jekyll, Bootstrap, Landing Page theme. Hosted on Netlify.
 
 # Build settings
 markdown: kramdown
